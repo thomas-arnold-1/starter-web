@@ -1,1 +1,3 @@
 untracked-folder-example/
+*.log
+log/
