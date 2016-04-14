@@ -9,5 +9,7 @@ This is an example to show different parts o f teh git repository
 ## Purpose 
 
 
+adding purpose text
 ## Deployment
+This is a deployment text web server local file system
 ## Sample website with plenty of files for demos
