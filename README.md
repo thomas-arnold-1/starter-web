@@ -15,3 +15,5 @@ This is a deployment text web server local file system
 ## Sample website with plenty of files for demos
 ## Copyright
 2016 Git.Training.tom
+## How to contirbute
+please fork this repo and issua pull requests for review.
