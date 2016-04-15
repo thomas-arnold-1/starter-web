@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  
+Thomas Arnold thomas.arnold@usm.edu  <name> -- <role> -- <twitter>
 
 # THANKS
 
